@@ -88,5 +88,6 @@ Consider not selling Tables and Electronic games until costs can be reduced as t
 Focus on expanding profitable sub-categories to continue trend in profitability. 
 
  
+![Dashboard Visuals]https://github.com/Anupriya-241122/ProfitabilityAnalysis_TheEverythingCompany/blob/main/Screenshot%202023-05-01%20094336.png)
 
  
