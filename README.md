@@ -86,8 +86,7 @@ Look at the underperforming States and identify why there is such a large varian
 Consider not selling Tables and Electronic games until costs can be reduced as these are taking away from the profitability of the company. 
 
 Focus on expanding profitable sub-categories to continue trend in profitability. 
+![Screenshot 2023-05-01 094336](https://user-images.githubusercontent.com/122012680/235491214-3c3f35a0-f4d6-498e-a5a1-685206c06c23.png)
 
- 
-![Dashboard Visuals]https://github.com/Anupriya-241122/ProfitabilityAnalysis_TheEverythingCompany/blob/main/Screenshot%202023-05-01%20094336.png)
 
  
