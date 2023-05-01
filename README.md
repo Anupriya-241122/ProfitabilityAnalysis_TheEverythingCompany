@@ -1,6 +1,9 @@
 # ProfitabilityAnalysis_TheEverythingCompany
 **This repository contains data analysis of product lines of The Everything Company.**
 
+[Profit Analysis Dashboard in Power BI (1).webm](https://user-images.githubusercontent.com/122012680/235495561-0d1e0a0f-e81a-4ff6-8810-539f8b1840a8.webm)
+
+
 **Analyse Dataset:** Once we have the dataset our first step is, to know the statements below as a Data Analyst. 
 
 **Problem Statement:** A company’s Head of Finance Mr. Hardik, has requested some metrics on the performance of The Everything Company’s product lines. He has some concerns that there are areas where the company may be losing money. He wants a report with recommendations. Data Set provided by company. 
